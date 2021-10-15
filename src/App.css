@@ -1,0 +1,52 @@
+.row{
+  background-color: transparent;
+}
+
+.otpvalue-field {
+  width: 38px;
+  margin-right: 10px;
+  padding-left: 12px;
+  height: 40px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black;
+}
+.para {
+  opacity: 0.5;
+}
+.row {
+  text-align: center;
+}
+.but3 {
+  background-color: rgb(128, 17, 17);
+  border: none;
+  color: rgb(243, 204, 204);
+  padding: 20px;
+  border-radius: 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 8px 4px;
+}
+.but1 {
+  margin: 30px;
+  text-decoration: none;
+}
+.but2 {
+  margin: 30px;
+  text-decoration: none;
+}
+
+
+.firstpage{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+#btnhome{
+  color: rgb(224, 230, 219);
+  background-color: rgb(12, 32, 3);
+  padding: 5px;
+}
